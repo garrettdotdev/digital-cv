@@ -77,7 +77,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 ## CERTIFICATION
 
-**AWS Certified Cloud Solutions Architect - Associate** \| **Oct 16, 2019** \| *Amazon Web Services*
+**[AWS Certified Cloud Solutions Architect - Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/LSJNYXR2E241QFCG)** \| **Oct 16, 2019** \| *Amazon Web Services*
 
 ---
 
