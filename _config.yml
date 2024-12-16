@@ -3,3 +3,6 @@ description: "A digital CV for a digital guy in a digital age"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-themes
+url: "https://garrettrohde.github.io/digital-cv"
+include:
+  - _includes
