@@ -8,3 +8,9 @@
 .tagcloud {
     text-align:center;
 }
+.wrapper {
+    width: 1024px;
+}
+section {
+    width: 664px;
+}
