@@ -28,7 +28,13 @@
         <p id="description"><small><em>{{ site.description | default: site.github.project_tagline }}</em></small></p>
         {% endif %}
 
+        {% if site.show_tagcloud and site.tagcloud %}
         <p class="tagcloud"><strong>• AWS • Serverless • DevOps • CRM • Scrumban • Python • PHP • Bash • JS • TypeScript • CI/CD • GitLabs • Jenkins • MySQL • NoSQL • Full-Stack • Back-End • Front-End • API Dev • REST • SOAP •</strong></p>
+        {% endif %}
+
+        {% if site.show_status and site.status %}
+        <div id="statusbox"><p id="status"><strong>{{ site.status }}</strong></p></div>
+        {% endif %}
 
         {% if site.contact_info %}
         <div class="sidebar-section">
