@@ -10,7 +10,7 @@ permalink: /
 
 ---
 
-## SUMMARY
+## ABOUT ME
 
 Lifelong technologist and Full-Stack Developer with 15 years of experience delivering impactful solutions across diverse technologies. Driven by an insatiable curiosity to understand how things work, constantly seeking opportunities to solve complex problems through technology. Proficient in building scalable cloud applications, automation systems, and optimizing AWS architecture with a focus on cost efficacy while maintaining peak system performance. Skilled in leading projects from conception to deployment, collaborating with cross-functional teams to ensure business objectives drive technical solutions. Adaptable and quick to learn new tools, demonstrated by delivering impactful results across varied projects. Applies a generalist perspective to solve complex challenges and deliver effective solutions while encouraging team-member success and growth.
 
@@ -75,6 +75,12 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 ---
 
+### CERTIFICATIONS
+
+**AWS Certified Cloud Solutions Architect - Associate** | **Oct 16, 2019** | *Amazon Web Services*
+
+---
+
 ## KEY SKILLS
 
 - **Cloud Services**: AWS Cloud Services, Architecture, Development, and Deployment; Resource Management and Cost Optimization
@@ -88,9 +94,3 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 - **Front-end & Back-end Development**: Back-end Data and Process Development, Front-end Interface Development
 
 - **Soft Skills**: Agile Project Management (Scrum, Kanban), Team Collaboration, Communication and Client Relations, Technical Writing
-
----
-
-### CERTIFICATIONS
-
-**AWS Certified Cloud Solutions Architect - Associate** | **Jan, 2019** | *Amazon Web Services*
