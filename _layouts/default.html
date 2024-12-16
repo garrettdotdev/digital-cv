@@ -16,13 +16,15 @@
 <body>
 <div class="wrapper">
     <header>
+        {% if site.show_title %}
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {% endif %}
 
-        {% if site.logo %}
+        {% if site.show_logo and site.logo %}
         <img class="avatar" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        {% if site.description %}
+        {% if site.show_description and site.description %}
         <p id="description"><small><em>{{ site.description | default: site.github.project_tagline }}</em></small></p>
         {% endif %}
 
