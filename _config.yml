@@ -1,8 +1,20 @@
 title: "Garrett Rohde - Digital CV"
 description: "A digital CV for a digital guy in a digital age"
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-themes
+- jekyll-seo-tag
 url: "https://garrettrohde.github.io/digital-cv"
 include:
   - _includes
+
+author:
+    name: "Garrett Rohde"
+    bio: "A digital guy in a digital age"
+    avatar: "https://avatars.githubusercontent.com/u/1847782?v=4"
+    email: "garrettdotdev@gmail.com"
+    phone: "503.548.8302"
+    location: "Yulee, Florida"
+    links:
+        - linkedin: https://linkedin.com/in/garrettrohde
+        - github: https://github.com/garrettdotdev
+        - x: https://x.com/garrettdotdev

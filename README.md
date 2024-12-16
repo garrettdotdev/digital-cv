@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Garrett Rohde - AWS Architect | Full Stack Developer"
 permalink: /
 ---
