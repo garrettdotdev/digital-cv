@@ -21,7 +21,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 ---
 
-## PROFESSIONAL PROJECTS
+## PROJECTS
 
 ### WorkMail Lambda – Email Automation System
 
@@ -35,7 +35,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 *Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
 
-### InstaBlog System – Automated WordPress Blog Creation and Management
+### "InstaBlog" System – Automated WordPress Blog Creation and Management
 
 **Role:** Sole Developer | **Company:** Traffic Science, Inc. | **2020–2024**
 
@@ -60,19 +60,21 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 **Role:** Lead Developer | **Company:** Traffic Science, Inc. | **2020-2022**
 
-- Built a browser extension to streamline content ingestion for ResultFlow users, enabling one-click content import of RSS feeds or single articles from anywhere on the web, reducing content ingestion setup time by 80%.
-- Adopted by over 75% of ResultFlow users.
+- Built a browser extension to streamline content ingestion for ResultFlow users, enabling one-click content import of RSS feeds or single articles from anywhere on the web, **reducing setup time by 80%**.
+- Drove an **adoption rate of 75%** across the ResultFlow user base, displacing manual content ingestion workflows with a faster and simpler one-click solution.
+- Implemented cross-browser compatibility, maximizing adoption potential and ensuring a consistent user experience across Chrome, Firefox, and Edge.
+- Designed a modular architecture, allowing for seamless updates and simplified integration with future ResultFlow releases.
 
-*Technologies: JavaScript, SCSS, HTML5*
+*Technologies: JavaScript, Java, SCSS, HTML5*
 
-### Atlas – Custom Scheduling Application
+### "Atlas" – Custom Scheduling Application
 
 **Role:** Lead Developer | **Company:** Comcast | **2018**
 
-- Built a custom calendar and scheduling tool for Comcast’s Field Service Technician team, replacing an ineffective Jira-based system.
-- Enabled efficient appointment scheduling, assignment management, and customer data tracking with tailored features for technicians, managers, and department heads.
-- Delivered a **75% reduction in scheduling time** and confusion, significantly improving team productivity.
-- Collaborated with stakeholders to define requirements and ensure adoption across all team levels.
+- Built a custom appointment scheduling application for Comcast's Field Service department, replacing a legacy Jira-based system, streamlining scheduling, task assignment, and real-time tracking, **resulting in a 75% reduction in time spent on scheduling**.
+- Implemented role-based access control (RBAC) with unique logins and permissions for technicians, managers, and department heads, enabling full visibility into user actions, improving accountability and reducing scheduling errors.
+- Developed dedicated desktop and mobile interfaces, enabling field technicians to access, update, and annotate appointments on the go, giving technicians easy and direct access and eliminating reliance on phone calls for scheduling.
+- Drove adoption of the application across hundreds of users across the department, establishing a single, centralized scheduling system that improved communication, accountability, and conflict resolution efficiency.
 
 *Technologies: PHP, Javascript, MariaDB, Git, Docker, HTML/CSS*
 
