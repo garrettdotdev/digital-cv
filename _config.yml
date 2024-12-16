@@ -1,3 +1,6 @@
 title: "Garrett Rohde - Digital CV"
 description: "A digital CV for a digital guy in a digital age"
-theme: minimal  # This specifies the Jekyll theme to use. You can change "minima" to other themes.
+theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-themes
