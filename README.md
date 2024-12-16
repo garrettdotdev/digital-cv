@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Garrett Rohde - AWS Architect | Full Stack Developer"
+permalink: /
 ---
 
 # Garrett Rohde
