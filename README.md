@@ -20,7 +20,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 ### WorkMail Lambda – Email Automation System
 
-**Role:** Lead Developer | **Company:** Traffic Science, Inc. | **2024-present**
+**Role:** Lead Developer | **Company:** Traffic Science, Inc. | **Dec, 2024**
 
 [git.new/workmail](https://git.new/workmail)
 
