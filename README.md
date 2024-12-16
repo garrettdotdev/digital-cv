@@ -7,11 +7,6 @@ permalink: /
 # Garrett Rohde
 
 ### AWS Architect | Full Stack Developer    
-Yulee, Florida  
-+1 (503) 548 8302  
-[garrettdotdev@gmail.com](mailto:garrettdotdev@gmail.com)  
-[linkedin.com/in/garrettrohde](https://linkedin.com/in/garrettrohde)   
-[github.com/garrettdotdev](https://github.com/garrettdotdev)  
 
 ---
 
