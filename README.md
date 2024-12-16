@@ -83,11 +83,11 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 ## KEY SKILLS
 
-- **Cloud Services**: AWS Cloud Services, Architecture, Development, and Deployment; Resource Management and Cost Optimization
+- **Cloud**: AWS Cloud Services, Architecture, Development, and Deployment; Resource Management and Cost Optimization
 
-- **Programming Languages & Frameworks**: PHP & Laravel, Python, JavaScript (Node.js, React, Vue.js), TypeScript, Bash, HTML / CSS3 / SASS
+- **Languages & Frameworks**: PHP & Laravel, Python, JavaScript (Node.js, React, Vue.js), TypeScript, Bash, HTML / CSS3 / SASS
 
-- **API Development & Integration**: RESTful, SOAP, API Design and Microservices
+- **API Development**: RESTful, SOAP, API Design and Microservices
 
 - **DevOps & CI/CD**: Docker, Git (GitLab, GitHub), CI/CD (Jenkins, GitLab), Nginx / Apache
 
