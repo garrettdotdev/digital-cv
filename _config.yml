@@ -1,6 +1,6 @@
 title: "Garrett Rohde - Digital CV"
 logo: "https://avatars.githubusercontent.com/u/1847782?v=4"
-description: "a digital CV for a digital guy"
+#description: "a digital CV for a digital guy"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
