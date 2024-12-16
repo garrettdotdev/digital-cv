@@ -32,10 +32,6 @@
         <p class="tagcloud"><strong>• AWS • Serverless • DevOps • CRM • Scrumban • Python • PHP • Bash • JS • TypeScript • CI/CD • GitLabs • Jenkins • MySQL • NoSQL • Full-Stack • Back-End • Front-End • API Dev • REST • SOAP •</strong></p>
         {% endif %}
 
-        {% if site.show_status and site.status %}
-        <div id="statusbox"><p id="status"><strong>{{ site.status }}</strong></p></div>
-        {% endif %}
-
         {% if site.contact_info %}
         <div class="sidebar-section">
             {% if site.contact_info.location %}
@@ -57,6 +53,10 @@
             <p><a href="{{ site.contact_info.links.x }}" target="_blank" rel="noopener">{{ site.contact_info.links.x }}</a></p>
             {% endif %}
         </div>
+        {% endif %}
+
+        {% if site.show_status and site.status %}
+        <div id="statusbox"><p id="status"><strong>{{ site.status }}</strong></p></div>
         {% endif %}
 
         {% if site.github.is_user_page %}
