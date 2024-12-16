@@ -22,7 +22,9 @@
         <img class="avatar" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        {% if site.description %}
         <p id="description"><small><em>{{ site.description | default: site.github.project_tagline }}</em></small></p>
+        {% endif %}
 
         {% if site.contact_info %}
         <div class="sidebar-section">
