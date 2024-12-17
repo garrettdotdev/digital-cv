@@ -26,7 +26,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 - Contract project still in development. Scheduled for completion before the New Year. Client has graciously allowed me to share the codebase on GitHub.
 - Utilizes AWS CloudFormation, Lambda, and API Gateway to create a system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
-- Projected **80% adoption** rate of across TSI’s client base.
+- Projected **90%+ adoption** rate of across the ResultFlow user base, based on direct client feedback.
 
 *Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
 
