@@ -25,7 +25,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 [github.com/garrettdotdev/workmail-lambda](https://github.com/garrettdotdev/workmail-lambda){:target="_blank" .external}
 
 - Contract project still in development. Scheduled for completion before the New Year. Client has graciously allowed me to share the codebase on GitHub.
-- Utilizes AWS CloudFormation, Lambda, and API Gateway to create a fully automated system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
+- Utilizes AWS CloudFormation, Lambda, and API Gateway to create a system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
 - Projected **80% adoption** rate of across TSI’s client base.
 
 *Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
@@ -56,7 +56,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 - Built a browser extension to streamline content ingestion for ResultFlow users, enabling one-click content import of RSS feeds or single articles from anywhere on the web, **reducing setup time by 80%**.
 - Drove a **75% adoption rate** across the ResultFlow user base, displacing manual content ingestion workflows with a faster and simpler one-click solution.
-- Implemented cross-browser compatibility, maximizing adoption potential and ensuring a consistent user experience across Chrome, Firefox, and Edge.
+- Achieved seamless cross-browser compatibility, ensuring consistent user experiencee across Chrome and Firefox, covering 95%+ of ResultFlow users.
 
 *Technologies: JavaScript, Java, SCSS, HTML5*
 
@@ -65,8 +65,8 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 **Role:** Lead Developer | **Company:** Comcast | **2018**
 
 - Built a custom appointment scheduling application for Comcast's Field Service department, replacing a legacy Jira-based system, streamlining scheduling, task assignment, and real-time tracking, resulting in a **75% reduction** in time spent on scheduling.
-- Implemented role-based access control (RBAC) with unique logins and permissions for technicians, managers, and department heads, enabling full visibility into user actions, improving accountability and reducing scheduling errors.
-- Developed dedicated desktop and mobile interfaces, enabling field technicians to access, update, and annotate appointments on the go, giving technicians easy and direct access and eliminating reliance on phone calls for scheduling.
+- Implmeneted role-based access control (RBAC) with a robust permissioning model, creating individual logins for technicians, managers, and department heads, enabling fine-grain user accountability and reducing scheduling errors by **over 67%**.
+- Developed a dedicated mobile interface, enabling technicians in the field to access, update, and annotate appointments on the go, reducing verification and annotation time **by 80%**.
 
 *Technologies: PHP, Javascript, MariaDB, Git, Docker, HTML/CSS*
 
