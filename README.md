@@ -30,7 +30,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 *Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
 
-### "InstaBlog" System – Automated WordPress Blog Creation and Management
+### "InstaBlog" System – Automated Content-Marketing Site Deployment and Management
 
 **Role:** Sole Developer | **Company:** Traffic Science, Inc. | **2020–2024**
 
@@ -50,7 +50,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 *Technologies: AWS CloudWatch, Cloud Trail, Cost Explorer, Trusted Advisor, EC2, RDS, S3, SQS, EBS, EFS, Route 53, VPC*
 
-### ResultFlow Browser Extension - Content Ingestion Tools
+### ResultFlow Browser Extension - Content Ingestion Tool
 
 **Role:** Lead Developer | **Company:** Traffic Science, Inc. | **2020-2022**
 
@@ -82,7 +82,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 - **Cloud**: AWS Architecture, Development, and Deployment; Serverless; Resource Management and Cost Optimization; Access Management (IAM)
 
-- **Languages & Frameworks**: PHP & Laravel, Python, JavaScript (Node.js, React, Vue.js), TypeScript, Bash, HTML / CSS3 / SASS
+- **Languages**: PHP, Python, JavaScript, TypeScript, Bash, HTML / CSS3 / SASS
 
 - **Databases**: MySQL, Amazon Aurora, PostgreSQL, DynamoDB
 
