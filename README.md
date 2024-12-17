@@ -22,7 +22,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 **Role:** Lead Developer | **Company:** Traffic Science, Inc. | **Dec, 2024**
 
-[git.new/workmail](https://git.new/workmail){:target="_blank" .external}
+[github.com/garrettdotdev/workmail-lambda](https://github.com/garrettdotdev/workmail-lambda){:target="_blank" .external}
 
 - Contract project still in development. Scheduled for completion before the New Year. Client has graciously allowed me to share the codebase on GitHub.
 - Utilizes AWS CloudFormation, Lambda, and API Gateway to create a fully automated system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
