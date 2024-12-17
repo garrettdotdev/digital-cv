@@ -44,19 +44,19 @@
             <p><a href="mailto:{{ site.contact_info.email }}">{{ site.contact_info.email }}</a></p>
             {% endif %}
             {% if site.contact_info.links.linkedin %}
-            <p><a href="{{ site.contact_info.links.linkedin }}" target="_blank" rel="noopener">{{ site.contact_info.links.linkedin}}</a></p>
+            <p><a href="{{ site.contact_info.links.linkedin }}" target="_blank" rel="noopener" class="external">{{ site.contact_info.links.linkedin}}</a></p>
             {% endif %}
             {% if site.contact_info.links.github %}
-            <p><a href="{{ site.contact_info.links.github }}" target="_blank" rel="noopener">{{ site.contact_info.links.github }}</a></p>
+            <p><a href="{{ site.contact_info.links.github }}" target="_blank" rel="noopener" class="external">{{ site.contact_info.links.github }}</a></p>
             {% endif %}
             {% if site.contact_info.links.x %}
-            <p><a href="{{ site.contact_info.links.x }}" target="_blank" rel="noopener">{{ site.contact_info.links.x }}</a></p>
+            <p><a href="{{ site.contact_info.links.x }}" target="_blank" rel="noopener" class="external">{{ site.contact_info.links.x }}</a></p>
             {% endif %}
         </div>
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}" target="_blank" rel="noopener" class="external">View My GitHub Profile</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -78,11 +78,11 @@
         {% endif %}
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}" target="_blank" rel="noopener" class="external">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener" class="external">{{ site.github.owner_name }}</a></p>
         {% endif %}
 
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>

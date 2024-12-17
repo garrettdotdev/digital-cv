@@ -15,6 +15,10 @@ tagcloud: "• AWS • Serverless • DevOps • CRM • Scrumban • Python •
 show_tagcloud: true
 status: "Currently exploring new opportunities. Are my skills & experience a match for what your company needs? Let's connect and talk about it! (16 Dec 24)"
 show_status: true
+show_downloads: false
+
+github:
+  is_project_page: false
 
 contact_info:
   location: "Yulee, Florida"
