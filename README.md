@@ -28,7 +28,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 - Utilizes AWS CloudFormation, Lambda, and API Gateway to create a system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
 - Projected **90%+ adoption** rate, based on direct client feedback.
 
-&nbsp;&nbsp;&nbsp;&nbsp;*Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
+*Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
 
 ### "InstaBlog" System – Automated Content-Marketing Site Deployment and Management
 
