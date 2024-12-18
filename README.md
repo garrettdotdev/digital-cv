@@ -26,7 +26,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 - Contract project still in development. Scheduled for completion before the New Year. Client has graciously allowed me to share the codebase on GitHub.
 - Utilizes AWS CloudFormation, Lambda, and API Gateway to create a system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
-- Projected **90%+ adoption** rate of across the ResultFlow user base, based on direct client feedback.
+- Projected **90%+ adoption** rate, based on direct client feedback.
 
 *Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
 
@@ -37,7 +37,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 - Built an automated system to provision and deploy content-marketing sites in **under 35 seconds**, seamlessly integrated with TSI’s SaaS product, ResultFlow.
 - Designed and maintained a fully custom WordPress build with a pre-styled theme and pre-configured plugins, saving clients an estimated **16 hours of setup time** and enabling rapid deployment of polished and performant content-marketing sites.
 - Delivered **65 releases over four years**, evolving the InstaBlog System into a fully-managed service.
-- Achieved over **90% adoption rate** across TSI’s client base by simplifying onboarding and reducing technical barriers.
+- Achieved over **90% adoption rate** by simplifying onboarding and reducing technical barriers.
 
 *Technologies: PHP; Javascript; Bash; AWS EC2, ELB, Route53, RDS (Amazon Aurora/MySQL); Git; Docker; WordPress*
 
@@ -55,7 +55,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 **Role:** Lead Developer | **Company:** Traffic Science, Inc. | **2020-2022**
 
 - Built a browser extension to streamline content ingestion for ResultFlow users, enabling one-click content import of RSS feeds or single articles from anywhere on the web, **reducing setup time by 80%**.
-- Drove a **75% adoption rate** across the ResultFlow user base, displacing manual content ingestion workflows with a faster and simpler one-click solution.
+- Drove a **75% adoption rate**, displacing manual content ingestion workflows with a faster and simpler one-click solution.
 - Achieved seamless cross-browser compatibility, ensuring consistent user experiencee across Chrome and Firefox, covering 95%+ of ResultFlow users.
 
 *Technologies: JavaScript, Java, SCSS, HTML5*
