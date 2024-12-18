@@ -28,7 +28,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 - Utilizes AWS CloudFormation, Lambda, and API Gateway to create a system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
 - Projected **90%+ adoption** rate, based on direct client feedback.
 
-*Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
+&nbsp;&nbsp;&nbsp;&nbsp;*Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
 
 ### "InstaBlog" System – Automated Content-Marketing Site Deployment and Management
 
@@ -56,7 +56,7 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 - Built a browser extension to streamline content ingestion for ResultFlow users, enabling one-click content import of RSS feeds or single articles from anywhere on the web, **reducing setup time by 80%**.
 - Drove a **75% adoption rate**, displacing manual content ingestion workflows with a faster and simpler one-click solution.
-- Achieved seamless cross-browser compatibility, ensuring consistent user experiencee across Chrome and Firefox, covering 95%+ of ResultFlow users.
+- Achieved seamless cross-browser compatibility, ensuring consistent user experiencee across Chrome and Firefox, covering **95%+** of ResultFlow users.
 
 *Technologies: JavaScript, Java, SCSS, HTML5*
 
