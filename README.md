@@ -16,16 +16,16 @@ Lifelong technologist and Full-Stack Developer with 15 years of experience deliv
 
 ---
 
-## PROJECTS
+## PROFESSIONAL PROJECTS
 
 ### WorkMail Lambda – Email Automation System
 
-**Role:** Lead Developer | **Company:** Traffic Science, Inc. | **Dec, 2024**
+**Role:** Lead Developer | **Company:** Traffic Science, Inc. | **Dec, 2024 - Jan, 2025**
 
 [github.com/garrettdotdev/workmail-lambda](https://github.com/garrettdotdev/workmail-lambda){:target="_blank" .external}
 
-- Contract project still in development. Scheduled for completion before the New Year. Client has graciously allowed me to share the codebase on GitHub.
-- Utilizes AWS CloudFormation, Lambda, and API Gateway to create a system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 5 minutes**.
+- Contract project still in development. Client has graciously allowed me to share the codebase on GitHub. Scheduled for production release by Fri, 17 Jan 2025.
+- Utilizes AWS CloudFormation, Lambda, and API Gateway to create a system that provisions and manages WorkMail organizations and users for clients, eliminating manual setup, reducing onboarding time to **under 3 minutes**.
 - Projected **90%+ adoption** rate, based on direct client feedback.
 
 *Technologies: InfusionSoft (Keap); AWS SAM, AWS CloudFormation, Lambda, API Gateway, WorkMail, SES, SNS; Python*
