@@ -93,7 +93,7 @@ Marketer’s Braintrust, LLC. | Atlanta, GA | 05/2008 – 06/2015
 ## CERTIFICATION
 
 AWS Certified Cloud Solutions Architect Associate | Oct 16, 2019 | _Amazon Web Services_
-_https://cp.certmetrics.com/amazon/en/public/verify/credential/LSJNYXR2E241QFCG_
+[https://cp.certmetrics.com/amazon/en/public/verify/credential/LSJNYXR2E241QFCG](https://cp.certmetrics.com/amazon/en/public/verify/credential/LSJNYXR2E241QFCG){:target="_blank" .external}
 
 ---
 
