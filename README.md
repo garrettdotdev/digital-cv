@@ -26,11 +26,11 @@ Traffic Science, Inc. | Fernandina Beach, FL | 07/2019 – 08/2024
   _Technologies: AWS SAM, Lambda, API Gateway, CloudFormation, WorkMail, Secrets Manager, Python, MySQL, Keap API, PyTest, GitLab, Git_
 
 
-- Developed a fully managed service product utilizing PHP, Bash, AWS CLI, and WP CLI to automate the provisioning, deployment, and management of content-marketing WordPress sites, seamlessly integrating with ResultFlow SaaS via a custom RESTful API to enable full deployment in under **33 seconds** , **saving 16 hours** per site and driving **over 90% adoption rate**.  
+- Developed a fully managed service product utilizing PHP, Bash, AWS CLI, and WP CLI to automate the provisioning, deployment, and management of content-marketing WordPress sites, seamlessly integrating with ResultFlow SaaS via a custom RESTful API to enable full deployment in under **33 seconds**, **saving 16 hours** per site and driving **over 90% adoption rate**.  
   _Technologies: PHP, Bash, AWS CLI, WordPress, WP CLI, RESTful API, MySQL, Nginx, EC2, S3, Route 53, CertBot, PHPUnit, GitLab, Git_
 
 
-- Built a cross-browser extension to streamline content ingestion for ResultFlow SaaS, enabling one-click import of RSS feeds and web articles, **reducing workflow setup time by 80%** , driving a **75% adoption rate** , and ensuring seamless compatibility across Chrome and Firefox to cover 95% of users.  
+- Built a cross-browser extension to streamline content ingestion for ResultFlow SaaS, enabling one-click import of RSS feeds and web articles, **reducing workflow setup time by 80%**, driving a **75% adoption rate**, and ensuring seamless compatibility across Chrome and Firefox to cover 95% of users.  
   _Technologies: JavaScript, Node.js, jQuery, HTML5, CSS3, Webpack, SCSS, RSS, JSON, GitLab, Git_
 
 
@@ -64,7 +64,7 @@ Your Design Online, LLC. | Atlanta, GA | 07/2015 – 11/2015
 
 Marketer’s Braintrust, LLC. | Atlanta, GA | 05/2008 – 06/2015
 
-- Drove a **$2.6M product launch** by developing and integrating a PHP and Javascript-powered, vide-driven sales funnel for _Link Liberation 2.0_ , ensuring an optimal user experience and seamless payment gateway functionality.  
+- Drove a **$2.6M product launch** by developing and integrating a PHP and Javascript-powered, vide-driven sales funnel for _Link Liberation 2.0_, ensuring an optimal user experience and seamless payment gateway functionality.  
   _Technologies: PHP, Javascript, HTML / CSS, RESTful, InfusionSoft API_
 
 
@@ -85,7 +85,7 @@ Marketer’s Braintrust, LLC. | Atlanta, GA | 05/2008 – 06/2015
   _Technologies: PHP, MySQL, WordPress, HTML / CSS, Javascript_
 
 
-- Managed and maintained Braintrust’s AWS cloud infrastructure, ensuring **99.995% reliability** , system and network security, and compliance with industry standards.  
+- Managed and maintained Braintrust’s AWS cloud infrastructure, ensuring **99.995% reliability**, system and network security, and compliance with industry standards.  
   _Technologies: AWS, Linux, Apache, MySQL, PHP, WordPress_
 
 ---
