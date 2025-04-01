@@ -11,9 +11,9 @@ logo: "/assets/images/logo.png"
 show_logo: true
 description: ""
 show_description: false
-tagcloud: "• AWS • Serverless • DevOps • CRM • Scrumban • Python • PHP • Bash • JS • TypeScript • CI/CD • GitLabs • Jenkins • MySQL • NoSQL • Full-Stack • Back-End • Front-End • API Dev • REST • SOAP •"
+tagcloud: "• AWS • Serverless • DevOps • CRM • Scrumban • Java • Spring Boot • Python • PHP • Bash • CI/CD • GitLabs • Jenkins • MySQL • DynamoDB • Full-Stack • Back-End • Front-End • API Dev • REST • SOAP •"
 show_tagcloud: true
-status: "Currently exploring new opportunities. Are my skills & experience a match for what your company needs? Let's connect and talk about it! (14 Feb '25)"
+status: "Currently exploring new opportunities. Are my skills & experience a match for what your company needs? Let's connect and talk about it! (31 Mar '25)"
 show_status: true
 show_downloads: false
 
@@ -26,4 +26,3 @@ contact_info:
   links:
     linkedin: https://linkedin.com/in/garrettrohde
     github: https://github.com/garrettdotdev
-    x: https://x.com/garrettdotdev
