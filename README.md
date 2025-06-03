@@ -1,10 +1,21 @@
 # Garrett Rohde
 
-## FULL STACK DEVELOPER | AWS CLOUD ARCHITECT
+### SENIOR SOFTWARE ENGINEER | DEVOPS ENGINEER | AWS CLOUD ARCHITECT
 
-### AWS CLOUD | FULL STACK DEVELOPMENT | DEVOPS AUTOMATION
+Senior Software Engineer and AWS Cloud Architect with over 15 years of experience designing secure, scalable back- and front-end systems and cloud infrastructure. Skilled in AWS, serverless computing, DevOps automation, and full-stack development using Java, Python, and PHP. Successfully led the design and development of high-performance cloud-native applications, modernizing legacy systems, automating complex workflows, and significantly improving reliability, efficiency, and developer velocity. A proven leader and team collaborator committed to driving innovation and mentoring cross-functional teams to achieve business goals.
 
-Lifelong technologist and Full Stack Developer with 15 years of experience delivering impactful solutions across diverse technologies. Driven by an insatiable curiosity to understand how things work, constantly seeking opportunities to solve complex problems through technology. Scalable cloud applications, automation systems,and optimizing AWS architecture with a focus on cost efficacy while maintaining peak system performance. Experienced leading projects from conception to deployment, collaborating with cross-functional teams, and ensuring technical solutions are driven by business objectives.
+---
+
+## SKILLS
+
+- **Cloud:** AWS, Cloud Architecture, Security, Serverless, Infrastructure as Code (IaC), Alarms, Monitoring
+- **Programming:** Java, Python, PHP, Bash
+- **DevOps:** CI/CD, Jenkins, GitLab, GitHub Actions, JUnit, PyTest, PHPUnit, Git, SVN, Docker, Docker Compose
+- **Databases:** MySQL (Aurora, MariaDB), DynamoDB, Query Optimization, Administration
+- **Security:** Identity and Access Management (IAM), Role-based Access Control (RBAC), Authentication (OAuth, JWT, JAAS)
+- **Project Management:** Agile, Kanban, Scrumban, Jira, Confluence
+- **Operating Systems:** Linux (Amazon Linux, RedHat, CentOS, Ubuntu, Debian), macOS
+- **Soft Skills:** Project Leadership, Team Collaboration, Time Management, Technical Documentation, Mentoring
 
 ---
 
@@ -14,82 +25,41 @@ Lifelong technologist and Full Stack Developer with 15 years of experience deliv
 
 Traffic Science, Inc. | Fernandina Beach, FL | 07/2019 – 08/2024
 
-- Managed IT Infrastructure, Identity and Access Management (IAM), Network and Application Security, and Infrastructure Deployment, implementing Role-Based Authentication Control (RBAC) with a granular permissions model and ensuring **99.995% system reliability**.  
-  _Technologies: AWS, IAM, EC2, RDS, S3, VPC, CloudFormation, RBAC, Security Groups, CloudWatch, Lambda, Route 53_
+_Recruited to this content-marketing firm as the Senior Engineer, leading the development team and managing all AWS infrastructure and software development activities._
 
+_Stack: AWS, Java (Spring Boot, OpenJ9), Python, PHP, Bash, Linux, MySQL, Docker, Git, SVN, GitHub Actions CI/CCD_
 
-- Optimized AWS infrastructure by modernizing the architecture, replacing outdated components, right-sizing services, and eliminating inefficiencies, resulting in a **60% overall reduction** in AWS monthly spend, **saving $3,000 monthly**.  
-  _Technologies: AWS Cost Explorer, Trusted Advisor, CloudWatch, IAM, EC2, RDS, S3, VPC, Lambda, CloudFormation_
-
-
-- Developed a serverless application in Python to automate the deployment and management of AWS WorkMail Organizations, utilizing AWS SAM, CloudFormation, and Lambda, reducing onboarding time from hours to **under 3 minutes**. Fully integrated with Keap (InfusionSoft) API.  
-  _Technologies: AWS SAM, Lambda, API Gateway, CloudFormation, WorkMail, Secrets Manager, Python, MySQL, Keap API, PyTest, GitLab, Git_
-
-
-- Developed a fully managed service product utilizing PHP, Bash, AWS CLI, and WP CLI to automate the provisioning, deployment, and management of content-marketing WordPress sites, seamlessly integrating with ResultFlow SaaS via a custom RESTful API to enable full deployment in **under 33 seconds**, **saving 16 hours** per site and driving **over 90% adoption rate**.  
-  _Technologies: PHP, Bash, AWS CLI, WordPress, WP CLI, RESTful API, MySQL, Nginx, EC2, S3, Route 53, CertBot, PHPUnit, GitLab, Git_
-
-
-- Built a cross-browser extension to streamline content ingestion for ResultFlow SaaS, enabling one-click import of RSS feeds and web articles, **reducing workflow setup time by 80%**, driving a **75% adoption rate**, and ensuring seamless compatibility across Chrome and Firefox to cover 95% of users.  
-  _Technologies: JavaScript, Node.js, jQuery, HTML5, CSS3, Webpack, SCSS, RSS, JSON, GitLab, Git_
-
-
-- Supported modernization of the ResultFlow SaaS, a legacy, monolithic Java Spring-boot application by managing EC2 server infrastructure, orchestrating rolling updates, and executing testing and bug resolution, contributing to a shared class cache implementation that **reduced disk usage by 15GiB** per application server and **total memory footprint by 50%**.  
-  _Technologies: Java, Spring Boot, AWS EC2, Route 53, ELB, RDS, CloudWatch, Linux, MySQL, Bash, SVN_
+- Led a 3-phase initiative to re-architect AWS infrastructure, implementing AWS Well-Architected Framework standards while ensuring zero production service interruption, resulting in a 71% overall reduction in infrastructure spend, saving $5,000 monthly.
+- Standardized DevOps procedures, including CI/CD pipelines, quality gates and testing requirements, automated testing, automatic rollback policies, and overhauling IAM and RBAC SOP.
+- Established a standardized development workflow for ResultFlow SaaS, utilizing Docker Compose and custom Docker images to mirror the production environment, and documented branch, testing, and integration protocols, improving consistency, reliability, and onboarding for developers.
+- Managed modernization of ResultFlow SaaS, leading the dev team and contributing code. Reduced memory footprint by 63% and boosted reliability from 96% to 99.99% by upgrading to OpenJ9, implementing shared class caching, decoupling microservices, and replacing legacy components.
+- Overhauled server and network security by standardizing Security Groups, NACLs, and authentication protocols, and bolstering server-level security using IP Tables and third-party software, preventing DDoS attacks and intrusion attempts.
+- Developed a serverless application in Python to automate the deployment and management of AWS WorkMail Organizations, utilizing CloudFormation, AWS SAM, API Gateway, and Step Functions, replacing a manual, hour-long workflow with a 4-minute automated process.
+- Built a microservice application utilizing a combination of Python, PHP, and Bash for the provisioning and deployment of content marketing sites for clients, replacing a multi-hour-long manual process with intelligent autoomation, reducing deployment time to an average of 33 seconds, and increasing client adoption from 33% to over 90%.
+- Created a cross-browser extension for ResultFlow users to simplify and streamline content ingestion into their application, enabling one-click import of RSS feeds, web articles, and other content from the browser, and achieving a 75% adoption rate.
 
 ### Full Stack Developer
 
 Comcast Cable Communications, LLC. | Atlanta, GA | 07/2016 – 06/2019 
 
-- Led the development of a custom scheduling application for Comcast’s Field Service Department, replacing a legacy Jira-based system. Delivered a **75% reduction** in scheduling time and a **67% decrease** in data-entry mistakes by implementing a dedicated mobile UI for field technicians with role-based access control (RBAC).  
-  _Technologies: PHP, Node.js, Bash, MySQL, RESTful API, JSON, HTML/CSS, Jenkins, Git_
+_Hired as a full-stack developer to build custom applications to support internal operational systems and teams._
 
+_Stack: PHP, JavaScript, Linux, MySQL, Git, Jenkins CI/CD_
 
-- Designed and implemented an automated software system that enables technicians to register jobs via SMS, **reducing processing time by 60%** and eliminating data-entry errors. The system processes thousands of daily requests across Comcast's Southeast region.  
-  _Technologies: PHP, Bash, MySQL, RESTful API, SOAP API, JSON, XML, Jenkins, Git_
+- Developed a custom scheduling application for the Field Service Department, replacing a legacy system and cutting scheduling time by 75% while reducing data-entry errors by 67% through an intuitive user interface with role-based access control (RBAC).
+- Built an automated SMS-based job registration system for field technicians, reducing processing time by 60% and virtually eliminating data-entry errors while handling thousands of daily requests across the Southeast region.
 
-### WordPress Developer
-
-Your Design Online, LLC. | Atlanta, GA | 07/2015 – 11/2015
-
-- Engineered and optimized back-end functionality, database structures, and server configuration for custom WordPress sites, ensuring **99.995% reliability** for high-profile clients such as East Lake Golf Club, Grace 17- 20 Restaurant, FAMA Merchant, and Data Clairvoyance.  
-  _Technologies: WordPress, PHP, MySQL, Apache, Linux, PHPUnit, Git_
-
-
-- Collaborated with a cross-functional team to implement secure and efficient server architectures, **improving response time by 30%**.  
-  _Technologies: PHP, Bash, MySQL, Apache, Linux, Git_
-
-
-- Enhanced database performance and security by implementing best practices in query optimization and access control practices, ensuring data integrity and compliance.  
-  _Technologies: MySQL_
-
-### Full Stack Developer
+### Staff Developer
 
 Marketer’s Braintrust, LLC. | Atlanta, GA | 05/2008 – 06/2015
 
-- Drove a **$2.6M product launch** by developing and integrating a PHP and Javascript-powered, vide-driven sales funnel for _Link Liberation 2.0_, ensuring an optimal user experience and seamless payment gateway functionality.  
-  _Technologies: PHP, Javascript, HTML / CSS, RESTful API, InfusionSoft API_
+_Joined this small ecommerce training and consulting firm, quickly progressing from entry-level technical support to independently delivering full-stack projects._
 
+_Stack: AWS, PHP, JavaScript, Linux, MySQL, Git, SVN_
 
-- **Increased cart conversions by 50%** by implementing 7 strategic customizations in the InfusionSoft shopping cart for BigBarker.com, leveraging Javascript and jQuery to modify the layout, automate promo code applications, and optimize the user experience.  
-  _Technologies: Javascript, jQuery, PHP, HTML / CSS, InfusionSoft_
-
-
-- Led the ground-up redevelopment of RubberFlooringDirect.com, resulting in a **25% improvement** in load times, a **30% reduction** in bounce rate, and a **20% increase in online sales** over 12 months by implementing targeted improvements to the user experience, integrating advanced analytics, and enabling optimized marketing strategies.  
-  _Technologies: PHP, Javascript, jQuery, Google Analytics, BionicClick, HTML / CSS_
-
-
-- Planned and executed the redevelopment of MyShapeLipo.com, driving a **2 5% increase in lead generation** by improving design and usability, site responsiveness, and implementing advanced tracking, analytics, insights, and segmentation.  
-  _Technologies: PHP, Javascript, Google Analytics, BionicClick, HTML / CSS_
-
-
-- Developed and maintained a dynamic membership portal for Braintrust clients, **increasing member**
-  **engagement by 33%** through improved and expanded functionality, faster load times, and improved reliability while supporting tens of thousands of daily requests.  
-  _Technologies: PHP, MySQL, WordPress, HTML / CSS, Javascript_
-
-
-- Managed and maintained Braintrust’s AWS cloud infrastructure, ensuring **99.995% reliability**, system and network security, and compliance with industry standards.  
-  _Technologies: AWS, Linux, Apache, MySQL, PHP, WordPress_
+- Drove a $2.6M product launch by developing and integrating a video-driven sales funnel for _Link Liberation 2.0_, ensuring an optimal user experience and seamless integration with the payment gateway.
+- Managed the _Braintrust's_ AWS infrastructure, ensuring 99.99% uptime, system and network security, and compliance with PCI and PII standards.
+- Built and maintained a dynamic membership portal for _Braintrust_ members, increasing engagement through improved and expanded functionality, faster load times, and improved reliability while supporting thousands of daily requests.
 
 ---
 
@@ -100,27 +70,9 @@ AWS Certified Cloud Solutions Architect Associate | Oct 16, 2019 | _Amazon Web S
 
 ---
 
-## SKILLS
-
-- **Cloud Computing:** AWS, Cloud Architecture, Serverless Architecture, CloudFormation, EC2, S3, RDS, VPC, Lambda, IAM, CloudWatch, Route 53
-- **Programming Languages:** Python, PHP, Javascript, Typescript, Bash, Java
-- **Web Development:** HTML5, CSS3, Node.js, jQuery, RESTful APIs, SOAP
-- **DevOps & Automation:** CI/CD, Jenkins, GitLab, AWS SAM, AWS CLI, WP CLI
-- **Database Management:** MySQL, NoSQL, Database Optimization, Query Optimization
-- **Version Control:** Git, SVN
-- **Testing Frameworks:** PHPUnit, PyTest, jUnit
-- **Project Management:** Agile, Kanban, Scrum, Scrumban
-- **Security:** Identity and Access Management (IAM), Role-based Access Control (RBAC), Application Security, Network Security
-- **Soft Skills:** Project Leadership, Team Collaboration, Technical Documentation, Troubleshooting, Bug Fixing, Problem-solving
-
----
-
 ## EDUCATION
 
-**Airline Transport Professionals, Inc.** – _Jacksonville, Florida_ (2006)  
-Airline Career Pilot Program (FAA Certificate Program)
-
 **Portland Community College** – _Portland, Oregon_ (2004 – 2005)  
-Coursework toward Bachelor of Science (B.S.), Aeronautics
+Coursework toward Associate Degree
 
 
